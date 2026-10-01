@@ -1,7 +1,5 @@
 # Priyanka Basappa Goranal
 
-Short professional introduction
-
 🎓 Education
 💼 Experience
 🚀 Featured Projects
@@ -9,5 +7,3 @@ Short professional introduction
 🔬 Research Interests
 🌐 Portfolio
 🔗 Connect With Me
-
-About This Repository
